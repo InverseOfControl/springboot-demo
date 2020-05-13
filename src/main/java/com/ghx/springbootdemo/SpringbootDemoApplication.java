@@ -15,6 +15,6 @@ public class SpringbootDemoApplication {
 
     @GetMapping("/k8s")
     public String demo(){
-        return "hello k8s v0.0.2";
+        return "hello k8s v0.0.2 update";
     }
 }
